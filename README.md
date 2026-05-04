@@ -1,4 +1,4 @@
-# r4m3.github.io
+# my portfolio website!
 
-hiii! this is my personal website.. not much to see here but you should check it out!
+hi! this is my personal website.. not much to see here but you should check it out!
 (still a work in progress)
